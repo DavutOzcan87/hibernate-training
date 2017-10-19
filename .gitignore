@@ -65,4 +65,5 @@ fabric.properties
 # Maven
 log/
 target/
-
+.gradle/
+gradle/
